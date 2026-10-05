@@ -78,5 +78,3 @@ The skills describe the workflow; the root documents hold the longer examples an
 ## Sources and inspiration
 
 The skills and references link to the material they build on. In particular, `bulletproof-react-components` draws on Shu Ding's [Building Bulletproof React Components](https://shud.in/thoughts/build-bulletproof-react-components), and `worker-best-practices` uses [Cloudflare's Workers guidance](https://developers.cloudflare.com/workers/best-practices/workers-best-practices/).
-
-For other thoughtful skill collections, see [Lauren Tan's pstack](https://github.com/cursor/plugins/tree/main/pstack), [HumanLayer's skills](https://github.com/humanlayer/skills), and [Emil Kowalski's skills](https://github.com/emilkowalski/skills). Their READMEs inspired the presentation of this collection.
